@@ -1,7 +1,7 @@
 /*
-@author:219169640 - Casey Michael Keven Crafford
-ADP372S Assignment 1 Term 1
-Using Github, Maven and Test Driven Development
+ * @author:219169640 - Casey Michael Keven Crafford
+ * ADP372S Assignment 1 Term 1
+ * Using Github, Maven and Test Driven Development
  */
 
 package za.ac.cput.assignment;
